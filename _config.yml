@@ -4,3 +4,4 @@ description: A personal journey through the challenges of developing and submitt
 author: Seu Nome
 markdown: kramdown
 theme: minima
+permalink: /:year/:month/:day/:title/
