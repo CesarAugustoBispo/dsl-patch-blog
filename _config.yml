@@ -1,5 +1,5 @@
 title: Diário de Bordo
-description: A personal journey through the challenges of developing and submitting Linux kernel patches — the learning curves and small victories that come with contributing.
-author: Seu Nome
+baseurl: ""  # ajuste aqui se o site estiver em um subdiretório
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
-theme: minima
+author: César Augusto
