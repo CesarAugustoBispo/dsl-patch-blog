@@ -1,7 +1,7 @@
 title: Diário de Bordo
 baseurl: ""
+permalink: /:year/:month/:day/:title/
 description: A personal journey through the challenges of developing and submitting Linux kernel patches — the learning curves and small victories that come with contributing.
 author: Seu Nome
 markdown: kramdown
 theme: minima
-permalink: /:year/:month/:day/:title/
