@@ -1,5 +1,6 @@
 title: Diário de Bordo
 baseurl: ""
+# ajuste aqui se o site estiver em um subdiretório (ex: "/nome-do-repo")
 permalink: /:year/:month/:day/:title/
 markdown: kramdown
 author: César Augusto
