@@ -1,13 +1,5 @@
 title: Diário de Bordo
-<<<<<<< HEAD
-baseurl: ""  # ajuste aqui se o site estiver em um subdiretório
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 markdown: kramdown
 author: César Augusto
-=======
-baseurl: ""
-permalink: /:year/:month/:day/:title/
-description: A personal journey through the challenges of developing and submitting Linux kernel patches — the learning curves and small victories that come with contributing.
-author: Seu Nome
-markdown: kramdown
->>>>>>> origin/main
