@@ -1,20 +1,20 @@
 ---
-title: Primeiro contato com o projeto
+title: Configuração de Ambiente com QEMU e libvirt
 date: 2025-04-23
 ---
 
-Hoje começamos a explorar o projeto. Confesso que fiquei um pouco perdido no início, especialmente com a organização dos arquivos. O que me salvou foi a documentação no README.
+## Introdução
 
-**O que gostei**:
-- A clareza do objetivo final.
-- O uso de tecnologias modernas.
+Este tutorial descreve como configurar um ambiente de testes para desenvolvimento do kernel Linux utilizando **QEMU** e **libvirt**, permitindo compilar e instalar kernels personalizados a partir do código-fonte de forma segura e eficiente.
 
-**Desafios**:
-- Entender como rodar o ambiente local.
-- Configurar o Jekyll corretamente no Windows.
+Este é o primeiro de uma série de quatro tutoriais que introduzem iniciantes ao desenvolvimento do kernel Linux, utilizando o subsistema **Industrial I/O (IIO)** como espaço prático para aprendizagem prática.
 
-**O que aprendi**:
-- Como funciona o front matter no Jekyll.
-- Que o `bundle exec jekyll serve` ajuda bastante no preview.
+## Experiência Pessoal
 
-Foi um bom primeiro passo!
+Foram realizados todos os passos desse tutorial sem dificuldades, **exceto na parte de configuração do SSL**, onde foi necessário consultar alguns materiais externos.
+
+A configuração **opcional** _Set up host <-> VM file sharing_ acabou impactando os demais tutoriais de forma negativa, sendo necessário **reverter a configuração** para garantir a continuidade do processo nos tutoriais seguintes.
+
+## Conclusão
+
+A configuração do ambiente com QEMU e libvirt mostrou-se eficiente e segura para testes de desenvolvimento do kernel. Problemas pontuais com SSL e compartilhamento de arquivos entre host e VM podem surgir, mas são contornáveis com ajustes manuais e atenção à documentação complementar.
