@@ -4,3 +4,4 @@ baseurl: "/dsl-patch-blog"
 permalink: /:year/:month/:day/:title/
 markdown: kramdown
 author: César Augusto
+highlighter: rouge
