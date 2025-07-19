@@ -18,18 +18,23 @@ tags: [linux, kernel, flatseal, debian, contribuições, open-source]
    **Status:** Recebemos sugestões de melhoria (estilo e reuso de código).
 
    ![Diagrama do patch IIO](/assets/unnamed.png)
+   ![Diagrama do patch IIO](/assets/unnamed(1).png)
 
 3. **Segunda submissão**  
    Refatoração parcial com melhorias de estilo e legibilidade.  
    **Status:** Novo envio limpando a abordagem original.
 
-4. **Patch final:**  
+   ![Diagrama do patch IIO](/assets/unnamed(2).png)
+
+5. **Patch final:**  
    Refatoração completa do `probe()` e limpeza do `remove()`  
    **Status:**  
    ✅ *Patch aplicado por Jonathan Cameron*, com o seguinte comentário:
    > "Fiz uma última mudança ao aplicar: incluí o nome do driver no título do patch. Está em branch de testes, será rebaseado no rc1."
 
    📌 *Próximo passo sugerido:* usar `devm_iio_device_register()` e eliminar o `remove()` por completo.
+
+   ![Diagrama do patch IIO](/assets/unnamed(3).png)
 ---
 
 ### Experiência e reflexões
