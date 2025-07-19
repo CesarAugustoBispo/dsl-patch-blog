@@ -1,6 +1,6 @@
 ---
 title: "Resumo final da disciplina"
-date: 2025-07-21
+date: 2025-07-19
 layout: post
 tags: [reflexão, kernel, software-livre, ensino, aprendizagem]
 ---
