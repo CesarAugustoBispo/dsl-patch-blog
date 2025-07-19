@@ -24,6 +24,7 @@ Flatseal é um utilitário gráfico para gerenciamento de permissões de aplicat
 ![Diagrama do patch IIO](/dsl-patch-blog/assets/unnamed(5).png)
 ![Diagrama do patch IIO](/dsl-patch-blog/assets/unnamed(6).png)
 ![Diagrama do patch IIO](/dsl-patch-blog/assets/unnamed(7).png)
+![Diagrama do patch IIO](/dsl-patch-blog/assets/unnamed(8).png)
 
 ### Experiência e reflexões
 
