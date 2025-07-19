@@ -1,6 +1,6 @@
 ---
 title: "Contribuição ao Debian – ruby-rack-session"
-date: 2025-07-20
+date: 2025-06-04
 layout: post
 tags: [linux, kernel, flatseal, debian, contribuições, open-source]
 
