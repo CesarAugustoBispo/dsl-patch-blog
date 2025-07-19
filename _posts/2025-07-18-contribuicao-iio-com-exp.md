@@ -17,14 +17,14 @@ tags: [linux, kernel, flatseal, debian, contribuições, open-source]
    Substituição direta de funções por suas variantes `devm_..._enable`.  
    **Status:** Recebemos sugestões de melhoria (estilo e reuso de código).
 
-   ![Diagrama do patch IIO](/assets/unnamed.png)
-   ![Diagrama do patch IIO](/assets/unnamed(1).png)
+   ![Diagrama do patch IIO](/dsl-patch-blog/assets/unnamed.png)
+   ![Diagrama do patch IIO](/dsl-patch-blog/assets/unnamed(1).png)
 
 3. **Segunda submissão**  
    Refatoração parcial com melhorias de estilo e legibilidade.  
    **Status:** Novo envio limpando a abordagem original.
 
-   ![Diagrama do patch IIO](/assets/unnamed(2).png)
+   ![Diagrama do patch IIO](/dsl-patch-blog/assets/unnamed(2).png)
 
 5. **Patch final:**  
    Refatoração completa do `probe()` e limpeza do `remove()`  
@@ -34,7 +34,7 @@ tags: [linux, kernel, flatseal, debian, contribuições, open-source]
 
    📌 *Próximo passo sugerido:* usar `devm_iio_device_register()` e eliminar o `remove()` por completo.
 
-   ![Diagrama do patch IIO](/assets/unnamed(3).png)
+   ![Diagrama do patch IIO](/dsl-patch-blog/assets/unnamed(3).png)
 ---
 
 ### Experiência e reflexões
