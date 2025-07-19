@@ -5,7 +5,7 @@ layout: post
 tags: [reflexão, kernel, software-livre, ensino, aprendizagem]
 ---
 
-## 🌱 Reflexões Finais
+## Reflexões Finais
 
 Como resumo da disciplina e sendo de uma área diferente, acredito que foi uma experiência perfeitamente enriquecedora, pois pude evoluir bastante no conhecimento sobre software livre e como contribuir efetivamente com as comunidades. As dificuldades encontradas durante a disciplina puderam ser prontamente sanadas com o apoio dos monitores – atores fortemente essenciais durante toda a trajetória.
 
